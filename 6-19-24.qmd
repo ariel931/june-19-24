@@ -1,0 +1,6 @@
+---
+title: "6-19-24"
+author: "Ariel Fader"
+format: html
+---
+
